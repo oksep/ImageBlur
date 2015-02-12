@@ -19,4 +19,4 @@ Impression:
 
 ![art1](https://github.com/Ryfthink/ImageBlur/tree/master/arts/snipper.jpg)
 
-![art1](https://github.com/Ryfthink/ImageBlur/tree/master/arts/snipper_blured.png)
+![art2](https://github.com/Ryfthink/ImageBlur/tree/master/arts/snipper_blured.png)
