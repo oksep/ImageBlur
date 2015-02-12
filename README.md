@@ -14,6 +14,9 @@ Four Method:
     4.Native Stack Algorithm with Bitmap
 
 
-![art1]https://github.com/Ryfthink/ImageBlur/tree/master/arts/snipper.jpg
+Impression:
 
-![art1]https://github.com/Ryfthink/ImageBlur/tree/master/arts/snipper_blured.png
+
+![art1](https://github.com/Ryfthink/ImageBlur/tree/master/arts/snipper.jpg)
+
+![art1](https://github.com/Ryfthink/ImageBlur/tree/master/arts/snipper_blured.png)
